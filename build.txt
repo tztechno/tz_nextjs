@@ -1,4 +1,6 @@
+
 npx create-next-app pj02
+
 
 ✔ Would you like to use TypeScript? … No / Yes
 ✔ Would you like to use ESLint? … No / Yes
@@ -10,20 +12,26 @@ npx create-next-app pj02
 ### TypeScriptの使用：
 No: TypeScriptを使用しない。
 Yes: TypeScriptを使用する。
+
 ### ESLintの使用：
 No: ESLintを使用しない。
 Yes: ESLintを使用する。ESLintはコードの品質や一貫性を維持するためのツールで、一般的に使用されます。
+
 ### Tailwind CSSの使用：
 No: Tailwind CSSを使用しない。
 Yes: Tailwind CSSを使用する。Tailwind CSSは、効率的なCSSフレームワークで、スタイリングを容易にします。
+
 ### src/ ディレクトリの使用：
 No: src/ ディレクトリを使用しない。すべてのファイルをプロジェクトのルートディレクトリに配置します。
 Yes: src/ ディレクトリを使用します。ファイルをプロジェクトの src/ ディレクトリに配置し、コードの整理や構造化を行います。
+
 ### App Routerの使用：
 No: App Routerを使用しない。
 Yes: App Routerを使用する。App Routerは、Next.jsアプリケーションのナビゲーションを管理するための機能です。
+
 ### デフォルトのインポートエイリアス（@/*）のカスタマイズ：
 No: デフォルトのインポートエイリアスを使用します。
 Yes: デフォルトのインポートエイリアスをカスタマイズします。例えば、@/componentsのように、特定のディレクトリに別名を付けることができます。
+
 
 npm run dev
