@@ -1,5 +1,5 @@
 
-npx create-next-app pj02
+npx create-next-app
 
 
 ✔ Would you like to use TypeScript? … No / Yes
