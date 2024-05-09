@@ -1,6 +1,13 @@
 
+https://github.com/tztechno/tz_html_works/blob/main/my_apps3.html
+
+#########################################################################
+
 npx create-next-app
 
+npm run dev
+
+#########################################################################
 
 ✔ Would you like to use TypeScript? … No / Yes
 ✔ Would you like to use ESLint? … No / Yes
@@ -33,5 +40,5 @@ Yes: App Routerを使用する。App Routerは、Next.jsアプリケーション
 No: デフォルトのインポートエイリアスを使用します。
 Yes: デフォルトのインポートエイリアスをカスタマイズします。例えば、@/componentsのように、特定のディレクトリに別名を付けることができます。
 
+#########################################################################
 
-npm run dev
