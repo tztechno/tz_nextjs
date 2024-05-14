@@ -1,3 +1,6 @@
+
+[install failure]
+
 npm init -y
 
 npm install react react-dom next
