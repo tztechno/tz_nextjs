@@ -1,6 +1,8 @@
-npm install
+npm init -y
 
-docker-compose up
+npm install react react-dom next
+
+docker-compose up --build
 
 localhost:3000
 
