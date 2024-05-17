@@ -1,6 +1,8 @@
 [not use docker]
 [first install node]
 
+# install
+
 --------------------------------------------------
 
 brew install node
@@ -18,6 +20,7 @@ v20.9.0
 10.1.0
 
 [node install completed]
+
 --------------------------------------------------
 
 npm install -g create-react-app
@@ -36,3 +39,5 @@ npm run dev
 プロダクションビルドの作成とサーバーの起動:
 npm run build
 npm start
+
+--------------------------------------------------
